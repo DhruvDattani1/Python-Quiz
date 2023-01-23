@@ -17,6 +17,20 @@ else:
     print("Sorry for being harsh here is a present!")
     rand = random.randint(1,300)
     print("$", rand)
-    rehit = input('Was your present sufficient?' )
+A2 = input('Whats 25 times 25? ')
+
+if A2 == "625":
+    print("nice you get nothing")
+    print("My quiz has ended")
+    exit()
+else:
+    print("Damn you get one more chance with a final questions")
+
+
+
     
+        
+
+    
+
 
