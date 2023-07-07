@@ -28,7 +28,7 @@ else:
     if (A3!=" "):
         print('You automatically win take your', rand, 'and get outta here!!')
     else:
-        print('Damn how you mess it up like that???')
+        print('How you mess it up like that???')
         exit()
 
 
