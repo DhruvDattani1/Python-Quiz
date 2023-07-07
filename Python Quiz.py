@@ -23,7 +23,7 @@ if A2 == "625":
     print("My quiz has ended")
     exit()
 else:
-    print("Damn you get one more chance with a final questions")
+    print("You get one more chance with a final questions")
     A3 = input('What is your name? ' )
     if (A3!=" "):
         print('You automatically win take your', rand, 'and get outta here!!')
