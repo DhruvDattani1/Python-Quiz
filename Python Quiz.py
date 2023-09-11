@@ -13,7 +13,7 @@ A1 = input('What is the capital of the United States?')
 if A1 == "Washington, DC":
     print("You're right!!")
 else:
-    print("You're a dumb son of a bitch")
+    print("You're a dumb guy")
     print("Sorry for being harsh here is a present!")
     print("$", rand)
 A2 = input('Whats 25 times 25? ')
